@@ -1,0 +1,47 @@
+{
+	"id": "0BC65B19-FD12-ED11-BD6E-000D3AB1D9FF",
+	"createdAt": "2022-08-03T07:22:58.990Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-bulkuserupload",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-bulkuserupload",
+	"description": null,
+	"ver": "22.8.3.724",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "BCB4D5E8-16AE-4BF9-AC44-E47C6120CD00",
+			"ver": "22.8.3.924",
+			"application": "p9_userupload_api",
+			"title": "Planet 9 CSV uploader",
+			"description": "Planet 9 CSV uploader"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
